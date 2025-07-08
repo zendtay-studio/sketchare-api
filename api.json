@@ -1,1 +1,4 @@
-{"api": "x"}
+{
+  "version": "2.0",
+  "status": "sobrescrito desde Termux con SHA"
+}
